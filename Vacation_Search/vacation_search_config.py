@@ -1,0 +1,1 @@
+g_key = 'AIzaSyBAgHn94SqdpGd6Ta8k4w3Xa8aTUEzeBDA'
