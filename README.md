@@ -9,11 +9,11 @@ This will show 2000 random latitudes and longitudes, retrieve the nearest city a
 ## Vacation Search
 Input statements are used to retrieve the customer weather preferences and then it is used to identify potential travel destinations and nearby hotels.
 
-For eaxample: 
+For example: 
 ![VacationSearch](Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Vacation Itinerary
 With the google direction API, a travel itenary can be created that shows the route between four cities chosen from the customer's possible travel destinations.
 
-For eaxample: 
+For example: 
 ![VacationItinerary](Vacation_Itinerary/WeatherPy_travel_map.png)
